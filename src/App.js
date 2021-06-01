@@ -1,5 +1,5 @@
 import logo from './download.png';
-/*import like from './unnamed.png'*/
+import like from './unnamed.png'
 import './App.css';
 import { useState } from 'react';
 import Display from './Component/Display'
