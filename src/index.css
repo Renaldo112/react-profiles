@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding:0;
+  box-sizing:border-box ;
+  background-color: purple;
+  margin: 50px 0px;
+}
+
+.App{
+  background-color: white;
+  max-width: 35rem;
+  width: 50%;
+  height: 30rem;
+  margin: auto;
+
+
+}
+
+img{
+
+}
+
+p{
+  font-size: 3rem;
+margin-bottom: 2px;
+}
+text{
+  font-size:1.3rem ;
+
+}
+button{
+  margin-left:1rem ;
+  width:22%;
+  margin-top: 1rem;
+  height: 1.7rem;
+  background-color: #E5E8EA;
+  border: none;
+}
+
+
+.count{
+  
+  display: flex;
+  justify-content: center;
+  
+
+}
+
+.number{
+  font-size: 2rem;
+}
+
+.like{
+  margin-top:2rem ;
+  width:30px;
+  margin-left: 4rem;
+}
+.github{
+  width: 2rem;
+}
