@@ -30,7 +30,7 @@ function App() {
         <button onClick={handleSkills}>Skills</button><br />
         <div className="count">
         <p className="number">{count}</p>
-        <input type="image" className="like" src="https://p.kindpng.com/picc/s/0-8047_youtube-thumbs-up-png-transparent-png.png" alt="like" onClick={() => likeCount(count + 1)}/>
+        <input type="image" className="like" src="https://png.pngtree.com/element_our/sm/20180626/sm_5b321ca743d4a.jpg" alt="like" onClick={() => likeCount(count + 1)}/>
         </div>
         <div>
         <a href="https://github.com/Renaldo112"><img class="github" src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" alt="github" /></a>
